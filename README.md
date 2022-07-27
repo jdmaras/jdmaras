@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hello there
+![Alt text](https://i.imgur.com/cX68s7X.gif)
 
 <!--
-**jdmaras/jdmaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

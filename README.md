@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/cX68s7X.gif" height="300" />
 
 ### - I'm a very team focused and driven individual. 
-### - Quiet before you get to know me so I can learn what kind of situation I need to adapt and where I will need to fit into my surroundings.
+### - Quiet before you get to know me so I can learn what kind of situation I need to adapt to and where I will need to fit into my surroundings.
 ### - Friends have described me as a chameleon -able to blend into whatever surroundings I'm placed in, but I prefer to believe I'm just the missing LEGO piece every team needs. 
 
 #### 🐕 Check out my solo project Reginald about my beautiful baby boy/dog Reggie
